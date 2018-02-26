@@ -8,6 +8,8 @@ Creating a new branch is quick AND simple.
 hahahah333333
 我天啊！！！！
 
+修复bug 101
+
 444444
 
 分支管理策略
